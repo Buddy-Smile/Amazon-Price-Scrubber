@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\AmazonPriceScrubber.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\AmazonPriceScrubber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\AmazonPriceScrubber.csproj",
+        "projectName": "AmazonPriceScrubber",
+        "projectPath": "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\AmazonPriceScrubber.csproj",
+        "packagesPath": "C:\\Users\\ryanb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryanb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.58, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

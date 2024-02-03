@@ -1,0 +1,17 @@
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\AmazonPriceScrubber.exe
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\AmazonPriceScrubber.deps.json
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\AmazonPriceScrubber.runtimeconfig.json
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\AmazonPriceScrubber.dll
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\AmazonPriceScrubber.pdb
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.csproj.AssemblyReference.cache
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.AssemblyInfoInputs.cache
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.AssemblyInfo.cs
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.csproj.CopyComplete
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.dll
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\refint\AmazonPriceScrubber.dll
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.pdb
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\AmazonPriceScrubber.genruntimeconfig.cache
+C:\Users\ryanb\.vscode\Projects\AmazonPriceScrubber\obj\Debug\net8.0\ref\AmazonPriceScrubber.dll

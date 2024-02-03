@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohTiE2vRFuOdnsOLzc6e6V3ojEIhLS+nPFUVXad5YsQcr4bLRk/0jl95jfzvXI8scz/HXv7aNo4PtCmgVuqn4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryanb\\.vscode\\Projects\\AmazonPriceScrubber\\AmazonPriceScrubber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryanb\\.nuget\\packages\\htmlagilitypack\\1.11.58\\htmlagilitypack.1.11.58.nupkg.sha512"
+  ],
+  "logs": []
+}
